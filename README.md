@@ -43,6 +43,9 @@ The dataset contains historical hotel booking records with features such as:
 - Previous cancellations
 - Length of stay
 
+## Dataset used to this project
+https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-2/data
+
 **Target Variable**:
 - `is_canceled`
   - `1` → Booking cancelled  
